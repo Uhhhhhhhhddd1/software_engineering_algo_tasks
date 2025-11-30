@@ -1,4 +1,6 @@
-from typing import Union, Optional
+from typing import Optional, Union
+
+
 class StackMax:
     """
     Стек с O(1) операцией get_max().
